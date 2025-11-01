@@ -27,7 +27,7 @@ Text fields automatically bring up the numeric keyboard.
 
 # 📱 UI Preview
 
-<img width="100" height="300" alt="Simulator Screenshot - iPhone 16e - 2025-10-06 at 16 43 24" src="https://github.com/user-attachments/assets/5733e1f8-0a4c-4c53-914a-3513b4309a90" />
+<img width="200" height="500" alt="Simulator Screenshot - iPhone 16e - 2025-10-06 at 16 43 24" src="https://github.com/user-attachments/assets/5733e1f8-0a4c-4c53-914a-3513b4309a90" />
 
 # 👨‍💻 Author
 
